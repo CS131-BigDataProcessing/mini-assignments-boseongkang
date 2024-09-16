@@ -1,0 +1,6 @@
+      6      78
+
+number 6 is showing from option -l which means that the line including the "Good luck, babe" in goodluck.txt file is 6 lines.
+
+number 78 is showing from option -w which means that the word counting for "Good luck, babe", in goodluck.txt file is 78.
+It is the word counting from the 6 lines.
