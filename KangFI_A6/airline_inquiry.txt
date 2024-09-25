@@ -1,0 +1,13 @@
+Q1. 
+"Alaska"
+"American"
+"Delta"
+"Jet Blue"
+"Southwest"
+"United"
+
+Q2.
+A)
+ awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniq
+B)
+awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
