@@ -1,4 +1,6 @@
 Q1. 
+awk -F, '{print $4}' airline_stats.csv |sort|uniq
+-F it prints out the $4 tag in the csv file
 "Alaska"
 "American"
 "Delta"
