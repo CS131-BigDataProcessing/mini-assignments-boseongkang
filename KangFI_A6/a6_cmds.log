@@ -1,1000 +1,1000 @@
-  148  cd Lec02
-  149  ls
-  150  ls -al
-  151  cd ..
-  152  ls -al
-  153  cd Lec06
-  154  ls -al
+   15  pwd
+   16  ls
+   17  clear
+   18  vim shell_exercise.sh
+   19  sh shell_exercise.sh 
+   20  shdate
+   21  sh date
+   22  vim shell_exercise.sh
+   23  date
+   24  who
+   25  $HOME
+   26  $USER
+   27  $user
+   28  $USER
+   29  $NAME
+   30  vim shell_exercise.sh 
+   31  $USERsh
+   32  sh shell_exercise.sh 
+   33  date
+   34  vim shell_exercise.sh 
+   35  sh shell_exercise.sh 
+   36  vim shell_exercise.sh 
+   37  sh shell_exercise.sh 
+   38  vim shell_exercise.sh 
+   39  sh shell_exercise.sh 
+   40  vim shell_exercise.sh 
+   41  sh shell_exercise.sh 
+   42  vim shell_exercise.sh 
+   43  sh shell_exercise.sh 
+   44  vim shell_exercise.sh 
+   45  sh shell_exercise.sh 
+   46  vim shell_exercise.sh 
+   47  sh shell_exercise.sh 
+   48  vim shell_exercise.sh 
+   49  sh shell_exercise.sh 
+   50  vim shell_exercise.sh 
+   51  clear
+   52  sh shell_exercise.sh 
+   53  clear
+   54  vim shell_exercise.sh 
+   55  sh shell_exercise.sh 
+   56  date
+   57  $date
+   58  $DATE
+   59  date
+   60  vim shell_exercise.sh 
+   61  sh shell_exercise.sh 
+   62  vim shell_exercise.sh 
+   63  sh shell_exercise.sh 
+   64  clear
+   65  sh shell_exercise.sh 
+   66  pwd
+   67  ls 
+   68  cd ..
+   69  ls\
+   70  ls -al
+   71  ls
+   72  cd Kang_A4
+   73  sh shell_exercise.sh 
+   74  cleear
+   75  sh shell_exercise.sh 
+   76  clear
+   77  sh shell_exercise.sh 
+   78  vim shell_exercise.sh 
+   79  sh shell_exercise.sh 
+   80  vim shell_exercise.sh 
+   81  sh shell_exercise.sh 
+   82  vim shell_exercise.sh 
+   83  sh shell_exercise.sh 
+   84  vim shell_exercise.sh 
+   85  sh shell_exercise.sh 
+   86  vim shell_exercise.sh 
+   87  sh shell_exercise.sh 
+   88  vim shell_exercise.sh 
+   89  sh shell_exercise.sh 
+   90  vim shell_exercise.sh 
+   91  sh shell_exercise.sh 
+   92  vim shell_exercise.sh 
+   93  sh shell_exercise.sh 
+   94  vim shell_exercise.sh 
+   95  sh shell_exercise.sh 
+   96  vim shell_exercise.sh 
+   97  sh shell_exercise.sh 
+   98  clear 
+   99  sh shell_exercise.sh 
+  100  vim shell_exercise.sh 
+  101  sh shell_exercise.sh 
+  102  vim shell_exercise.sh 
+  103  sh shell_exercise.sh 
+  104  vim shell_exercise.sh 
+  105  sh shell_exercise.sh
+  106  clear
+  107  sh shell_exercise.sh 
+  108  vim shell_exercise.sh 
+  109  sh shell_exercise.sh 
+  110  vim shell_exercise.sh 
+  111  sh shell_exercise.sh 
+  112  vim shell_exercise.sh 
+  113  clear
+  114  sh shell_exercise.sh 
+  115  vim shell_exercise.sh 
+  116  sh shell_exercise.sh 
+  117  vim shell_exercise.sh 
+  118  clear
+  119  sh shell_exercise.sh 
+  120  vim shell_exercise.sh 
+  121  clear
+  122  sh shell_exercise.sh 
+  123      clar
+  124  cls
+  125  vim shell_exercise.sh 
+  126  sh shell_exercise.sh 
+  127  vim shell_exercise.sh 
+  128  sh shell_exercise.sh 
+  129  clear
+  130  vim shell_exercise.sh 
+  131  sh shell_exercise.sh 
+  132  vim shell_exercise.sh 
+  133  sh shell_exercise.sh 
+  134  vim shell_exercise.sh 
+  135  sh shell_exercise.sh 
+  136  clear
+  137  sh shell_exercise.sh 
+  138  vim shell_exercise.sh 
+  139  sh shell_exercise.sh 
+  140  vim shell_exercise.sh 
+  141  sh shell_exercise.sh 
+  142  clear
+  143  sh shell_exercise.sh 
+  144  vim shell_exercise.sh 
+  145  sh shell_exercise.sh 
+  146  vim shell_exercise.sh 
+  147  clear
+  148  sh shell_exercise.sh 
+  149  vim shell_exercise.sh 
+  150  sh shell_exercise.sh 
+  151  clear
+  152  sh shell_exercise.sh 
+  153  mv shell_exercise.sh echoing.sh
+  154  ls
   155  cd ..
-  156  cat ~/.bash_profile 
-  157  ls -al
-  158  vim .bashrc
-  159  cls
-  160  clear
-  161  cls
-  162  vim .bashrc
-  163  source .bashrc
-  164  cls
-  165  ls -A
-  166  ls -al
-  167  lsa
-  168  cls
-  169  ls -A
-  170  vim .bashrc
-  171  source .bashrc
-  172  lsa
+  156  ls
+  157  cd Kang_A4
+  158  ls
+  159  clear
+  160  sh echoing.sh 
+  161  vim echoing.sh 
+  162  cat echoing.sh 
+  163  sh echoing.sh 
+  164  clear
+  165  sh
+  166  cleaer
+  167  clear
+  168  sh echoing.sh 
+  169  vim echoing.sh 
+  170  sh echoing.sh 
+  171  vim echoing.sh 
+  172  sh echoing.sh 
   173  clear
-  174  cat .bashrc
-  175  lsa
-  176  clear
-  177  vim .bashrc
-  178  source .bashrc
-  179  vim .bashrc
-  180  ls -;
-  181  ls -l
-  182  vim .bashrc
-  183  source .bashrc
-  184  clear
-  185  ll
-  186  ls -l
-  187  pwd
-  188  man ls
-  189  ls -all
-  190  ls- al
-  191  ls -al
-  192  clear
-  193  pwd
-  194  ls 
-  195  cd Kang_A4_shell/
-  196  ls
-  197  cat class_practice.sh 
-  198  vim lec06_exercise.sh
-  199  pwd
-  200  cd ..
-  201  mkdir Kang_A4
-  202  cd Kang_A4
-  203  pwd
-  204  ls
-  205  clear
-  206  vim shell_exercise.sh
-  207  sh shell_exercise.sh 
-  208  shdate
-  209  sh date
-  210  vim shell_exercise.sh
-  211  date
-  212  who
-  213  $HOME
-  214  $USER
-  215  $user
-  216  $USER
-  217  $NAME
-  218  vim shell_exercise.sh 
-  219  $USERsh
-  220  sh shell_exercise.sh 
-  221  date
-  222  vim shell_exercise.sh 
-  223  sh shell_exercise.sh 
-  224  vim shell_exercise.sh 
-  225  sh shell_exercise.sh 
-  226  vim shell_exercise.sh 
-  227  sh shell_exercise.sh 
-  228  vim shell_exercise.sh 
-  229  sh shell_exercise.sh 
-  230  vim shell_exercise.sh 
-  231  sh shell_exercise.sh 
-  232  vim shell_exercise.sh 
-  233  sh shell_exercise.sh 
-  234  vim shell_exercise.sh 
-  235  sh shell_exercise.sh 
-  236  vim shell_exercise.sh 
-  237  sh shell_exercise.sh 
-  238  vim shell_exercise.sh 
-  239  clear
-  240  sh shell_exercise.sh 
-  241  clear
-  242  vim shell_exercise.sh 
-  243  sh shell_exercise.sh 
-  244  date
-  245  $date
-  246  $DATE
-  247  date
-  248  vim shell_exercise.sh 
-  249  sh shell_exercise.sh 
-  250  vim shell_exercise.sh 
-  251  sh shell_exercise.sh 
-  252  clear
-  253  sh shell_exercise.sh 
-  254  pwd
-  255  ls 
-  256  cd ..
-  257  ls\
-  258  ls -al
-  259  ls
-  260  cd Kang_A4
-  261  sh shell_exercise.sh 
-  262  cleear
-  263  sh shell_exercise.sh 
-  264  clear
-  265  sh shell_exercise.sh 
-  266  vim shell_exercise.sh 
-  267  sh shell_exercise.sh 
-  268  vim shell_exercise.sh 
-  269  sh shell_exercise.sh 
-  270  vim shell_exercise.sh 
-  271  sh shell_exercise.sh 
-  272  vim shell_exercise.sh 
-  273  sh shell_exercise.sh 
-  274  vim shell_exercise.sh 
-  275  sh shell_exercise.sh 
-  276  vim shell_exercise.sh 
-  277  sh shell_exercise.sh 
-  278  vim shell_exercise.sh 
-  279  sh shell_exercise.sh 
-  280  vim shell_exercise.sh 
-  281  sh shell_exercise.sh 
-  282  vim shell_exercise.sh 
-  283  sh shell_exercise.sh 
-  284  vim shell_exercise.sh 
-  285  sh shell_exercise.sh 
-  286  clear 
-  287  sh shell_exercise.sh 
-  288  vim shell_exercise.sh 
-  289  sh shell_exercise.sh 
-  290  vim shell_exercise.sh 
-  291  sh shell_exercise.sh 
-  292  vim shell_exercise.sh 
-  293  sh shell_exercise.sh
-  294  clear
-  295  sh shell_exercise.sh 
-  296  vim shell_exercise.sh 
-  297  sh shell_exercise.sh 
-  298  vim shell_exercise.sh 
-  299  sh shell_exercise.sh 
-  300  vim shell_exercise.sh 
-  301  clear
-  302  sh shell_exercise.sh 
-  303  vim shell_exercise.sh 
-  304  sh shell_exercise.sh 
-  305  vim shell_exercise.sh 
-  306  clear
-  307  sh shell_exercise.sh 
-  308  vim shell_exercise.sh 
-  309  clear
-  310  sh shell_exercise.sh 
-  311      clar
-  312  cls
-  313  vim shell_exercise.sh 
-  314  sh shell_exercise.sh 
-  315  vim shell_exercise.sh 
-  316  sh shell_exercise.sh 
-  317  clear
-  318  vim shell_exercise.sh 
-  319  sh shell_exercise.sh 
-  320  vim shell_exercise.sh 
-  321  sh shell_exercise.sh 
-  322  vim shell_exercise.sh 
-  323  sh shell_exercise.sh 
-  324  clear
-  325  sh shell_exercise.sh 
-  326  vim shell_exercise.sh 
-  327  sh shell_exercise.sh 
-  328  vim shell_exercise.sh 
-  329  sh shell_exercise.sh 
-  330  clear
-  331  sh shell_exercise.sh 
-  332  vim shell_exercise.sh 
-  333  sh shell_exercise.sh 
-  334  vim shell_exercise.sh 
-  335  clear
-  336  sh shell_exercise.sh 
-  337  vim shell_exercise.sh 
-  338  sh shell_exercise.sh 
-  339  clear
-  340  sh shell_exercise.sh 
-  341  mv shell_exercise.sh echoing.sh
-  342  ls
-  343  cd ..
-  344  ls
-  345  cd Kang_A4
-  346  ls
-  347  clear
-  348  sh echoing.sh 
-  349  vim echoing.sh 
-  350  cat echoing.sh 
-  351  sh echoing.sh 
-  352  clear
-  353  sh
-  354  cleaer
-  355  clear
-  356  sh echoing.sh 
-  357  vim echoing.sh 
-  358  sh echoing.sh 
-  359  vim echoing.sh 
-  360  sh echoing.sh 
-  361  clear
-  362  sh echoing.sh 
-  363  cd ..
-  364  ls
-  365  cd Kang_A4
-  366  git add .
-  367  cd ..
-  368  git add .
-  369  ls
-  370  cd Kang_A4
-  371  ls -al
-  372  git add .
-  373  cd ..
-  374  git add .
-  375  cd Kang_A4_shell/
-  376  ls -al
-  377  cd ..
-  378  cd CS131_fa24_datafiles/
-  379  ls 
-  380  ls -al
-  381  git add .
-  382  ls
-  383  pwd
-  384  git status
-  385  git commit -m "lec04 assignment"
-  386  git push -u 
-  387  cd ..
-  388  ls
-  389  git clone git@github.com:boseongkang/mini-assignments.git
-  390  git clone https://github.com/boseongkang/mini-assignments.git
-  391  ls
-  392  mv Kang_A4/echoing.sh mini-assignments/
-  393  cd mini-assignments/
-  394  ls
-  395  cd
-  396  cd Kang_A4
-  397  ls
-  398  cd
-  399  mv mini-assignments/echoing.sh ~/Kang_A4
-  400  cd Kang_A4
-  401  ls
-  402  cd
-  403  rm -rf mini-assignments/
-  404  ls
-  405  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-boseongkang.git
-  406  ls
-  407  cd mini-assignments-boseongkang/
-  408  ls
-  409  cd ..
-  410  ls
-  411  cd mini-assignments-boseongkang/
-  412  mkdir Kang_A4
-  413  cd
-  414  mv Kang_A4/echoing.sh mini-assignments-boseongkang/Kang_A4/
-  415  cd mini-assignments-boseongkang/
-  416  ls
-  417  cd Kang_A4/
-  418  ls
-  419  git add .
-  420  git commit -m "A4 assignment"
-  421  git push -u
-  422  ssh-keygen -t ed25519 -C "your_email@example.com"
-  423  ssh-keygen -t ed25519 -C "https://github.com/boseongkang"
-  424  y
-  425  ssh-keygen -t ed25519 -C "https://github.com/boseongkang"
-  426  Y
-  427  eval "$(ssh-agent -s)"
-  428  ssh-add ~/.ssh/id_ed25519
-  429  eval "$(ssh-agent -s)"
-  430  ssh-add ~/.ssh/id_ed25519
-  431  pbcopy < ~/.ssh/id_ed25519.pub
-  432  SHA256:j17/eLUNGaQS+OoikCOcc5kk6UEnFbFHz5cUVutQlh8
-  433  cat ~/.ssh/id_ed25519.pub
-  434  clear
-  435  cat ~/.ssh/id_ed25519.pub
-  436  $ git config user.name
-  437  ssh-keygen -t ed25519 -C "okboseong@gmail.com"
-  438  eval "$(ssh-agent -s)"
-  439  ssh-add ~/.ssh/id_ed25519
-  440  pbcopy < ~/.ssh/id_ed25519.pub
-  441  cat ~/.ssh/id_ed25519.pub
-  442  ssh -T boseong.kang
-  443  ssh -T boseongkang
-  444  ssh -T okboseong@gmail.com
-  445  git add .
-  446  git commit -m "a4 assignment"
-  447  git push -u
-  448  ssh -T okboseong@gmail.com
-  449  ssh -T git@github.com
+  174  sh echoing.sh 
+  175  cd ..
+  176  ls
+  177  cd Kang_A4
+  178  git add .
+  179  cd ..
+  180  git add .
+  181  ls
+  182  cd Kang_A4
+  183  ls -al
+  184  git add .
+  185  cd ..
+  186  git add .
+  187  cd Kang_A4_shell/
+  188  ls -al
+  189  cd ..
+  190  cd CS131_fa24_datafiles/
+  191  ls 
+  192  ls -al
+  193  git add .
+  194  ls
+  195  pwd
+  196  git status
+  197  git commit -m "lec04 assignment"
+  198  git push -u 
+  199  cd ..
+  200  ls
+  201  git clone git@github.com:boseongkang/mini-assignments.git
+  202  git clone https://github.com/boseongkang/mini-assignments.git
+  203  ls
+  204  mv Kang_A4/echoing.sh mini-assignments/
+  205  cd mini-assignments/
+  206  ls
+  207  cd
+  208  cd Kang_A4
+  209  ls
+  210  cd
+  211  mv mini-assignments/echoing.sh ~/Kang_A4
+  212  cd Kang_A4
+  213  ls
+  214  cd
+  215  rm -rf mini-assignments/
+  216  ls
+  217  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-boseongkang.git
+  218  ls
+  219  cd mini-assignments-boseongkang/
+  220  ls
+  221  cd ..
+  222  ls
+  223  cd mini-assignments-boseongkang/
+  224  mkdir Kang_A4
+  225  cd
+  226  mv Kang_A4/echoing.sh mini-assignments-boseongkang/Kang_A4/
+  227  cd mini-assignments-boseongkang/
+  228  ls
+  229  cd Kang_A4/
+  230  ls
+  231  git add .
+  232  git commit -m "A4 assignment"
+  233  git push -u
+  234  ssh-keygen -t ed25519 -C "your_email@example.com"
+  235  ssh-keygen -t ed25519 -C "https://github.com/boseongkang"
+  236  y
+  237  ssh-keygen -t ed25519 -C "https://github.com/boseongkang"
+  238  Y
+  239  eval "$(ssh-agent -s)"
+  240  ssh-add ~/.ssh/id_ed25519
+  241  eval "$(ssh-agent -s)"
+  242  ssh-add ~/.ssh/id_ed25519
+  243  pbcopy < ~/.ssh/id_ed25519.pub
+  244  SHA256:j17/eLUNGaQS+OoikCOcc5kk6UEnFbFHz5cUVutQlh8
+  245  cat ~/.ssh/id_ed25519.pub
+  246  clear
+  247  cat ~/.ssh/id_ed25519.pub
+  248  $ git config user.name
+  249  ssh-keygen -t ed25519 -C "okboseong@gmail.com"
+  250  eval "$(ssh-agent -s)"
+  251  ssh-add ~/.ssh/id_ed25519
+  252  pbcopy < ~/.ssh/id_ed25519.pub
+  253  cat ~/.ssh/id_ed25519.pub
+  254  ssh -T boseong.kang
+  255  ssh -T boseongkang
+  256  ssh -T okboseong@gmail.com
+  257  git add .
+  258  git commit -m "a4 assignment"
+  259  git push -u
+  260  ssh -T okboseong@gmail.com
+  261  ssh -T git@github.com
+  262  ls
+  263  ls -al
+  264  rm 'eval "$(ssh-agent -s)"
+  265  '
+  266  rm -rf 'eval "$(ssh-agent -s)"'
+  267  ls
+  268  rm -rf 'eval "$(ssh-agent -s)".pub' '
+  269  '
+  270  ls
+  271  vim echoing.sh 
+  272  git add .
+  273  git commit -m "a4assignment"
+  274  git puys -u
+  275  git config --global user.email "okboseong@gmail.com
+  276  "
+  277  git config --global user.name "boseongkang"
+  278  git commit -m "a4assignment"
+  279  git push -u
+  280  git remote set-url origin git@github.com:boseongkang/CS131-BigDataProcessing/mini-assignments-boseongkang.git
+  281  git push -u origin main
+  282  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
+  283  git push -u origin main
+  284  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
+  285  git push -u origin main
+  286  ls
+  287  pwd
+  288  ls
+  289  cd ..
+  290  ls
+  291  pwd
+  292  git add .
+  293  git commit -m "a4 assignment
+  294  git push -u
+  295  git push origin main
+  296  git fetch origin
+  297  git remote set-url origin git@github.com:CS131-BigDataProcessing/mini-assignments.git
+  298  git push origin main
+  299  cd
+  300  ls
+  301  cd Kang_A4
+  302  ls
+  303  cd ../mini-assignments-boseongkang/
+  304  ls
+  305  cd Kang_A4/
+  306  ls
+  307  vim echoing.sh 
+  308  ls
+  309  cd ..
+  310  ls
+  311  cd
+  312  ls
+  313  ls -al
+  314  vim .bashrc 
+  315  clear
+  316  cat .bashrc
+  317  ls -al
+  318  cat .bash_profile 
+  319  cat .bashrc
+  320  clear
+  321  cat .bashrc
+  322  ls
+  323  git add .
+  324  cd mini-assignments-boseongkang/
+  325  ls
+  326  git add .
+  327  git commit -m "test"
+  328  git push -u
+  329  git pull
+  330  ls -al ~/.ssh
+  331  cd
+  332  ls
+  333  cd mini-assignments-boseongkang/
+  334  ls -al
+  335  git add .
+  336  git commit -m "test
+  337  "
+  338  git pull
+  339  pbcopy < ~/.ssh/id_ed25519.pub
+  340  cat ~/.ssh/id_ed25519.pub
+  341  eval "$(ssh-agent -s)"
+  342  ssh-add ~/.ssh/id_ed25519
+  343  ssh -T git@github.com
+  344  eval "$(ssh-agent -s)"
+  345  ssh-add ~/.ssh/id_ed25519
+  346  ssh -T git@github.com
+  347  ls 
+  348  cd mini-assignments-boseongkang/
+  349  ls
+  350  ls -al
+  351  git add .
+  352  git commit -m "a4"
+  353  git pull origin main
+  354  ls -al ~/.ssh
+  355  cat ~/.ssh/id_ed25519.pub
+  356  ssh -T git@github.com
+  357  git pull origin main
+  358  git pull origin main --allow-unrelated-histories
+  359  git push origin main
+  360  ssh -T git@github.com
+  361  git remote -v
+  362  ls
+  363  touch test.md
+  364  git add .
+  365  git commit -m "test"
+  366  git push -u
+  367  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
+  368  git push origin main
+  369  clear
+  370  cls
+  371  pwd
+  372  ls
+  373  cls
+  374  ls -al
+  375  cls
+  376  ls -l
+  377  cls
+  378  pwd
+  379  ls -l
+  380  cd Kang_A4
+  381  ls
+  382  cls
+  383  cd ../mini-assignments-boseongkang
+  384  cls
+  385  pwd
+  386  ls
+  387  vim test.md 
+  388  git add .
+  389  git commit -m "test"
+  390  git push -u
+  391  cd
+  392  clear
+  393  cd mini-assignments-boseongkang/
+  394  ls 
+  395  cat test.md 
+  396  git status
+  397  git add .
+  398  git commit -m "test"
+  399  git push origin master
+  400  git push origin main
+  401  git push -u
+  402  git log
+  403  ls -al ~/.ssh
+  404  ssh -T git@github.com
+  405  clear
+  406  git log
+  407  ls
+  408  clear
+  409  pwd
+  410  ls -l
+  411  cat test.md 
+  412  git remote -v
+  413  git remote set-url origin git@github.com:boseongkang/CS131-BigDataProcessing/mini-assignments-boseongkang.git
+  414  ls -l
+  415  vim test.md 
+  416  git add .
+  417  git commit -m "test"
+  418  git push -u
+  419  git remote -v
+  420  git remote set-rul origin git@github.com:CS131-BigDataProcessing/mini-assignments-boseongkang.git
+  421  git remote set-url origin git@github.com:CS131-BigDataProcessing/mini-assignments-boseongkang.git
+  422  git add .
+  423  git commit -m "a"
+  424  git push -u
+  425  clear
+  426  ls
+  427  cd CS131_fa24_datafiles/
+  428  ls
+  429  cd Lec0
+  430  cd Lec02
+  431  ls
+  432  clear
+  433  cat goodluck.txt 
+  434  vim goodluck.txt 
+  435  ls
+  436  cd ..
+  437  ls
+  438  pwd
+  439  ls
+  440  cd mini-assignments-boseongkang/
+  441  ls
+  442  clear
+  443  pwd
+  444  ls -l
+  445  mkdir Kang-BS_A2
+  446  cd Kang-BS_A2/
+  447  pwd
+  448  clear
+  449  cd ..
   450  ls
-  451  ls -al
-  452  rm 'eval "$(ssh-agent -s)"
-  453  '
-  454  rm -rf 'eval "$(ssh-agent -s)"'
-  455  ls
-  456  rm -rf 'eval "$(ssh-agent -s)".pub' '
-  457  '
-  458  ls
-  459  vim echoing.sh 
-  460  git add .
-  461  git commit -m "a4assignment"
-  462  git puys -u
-  463  git config --global user.email "okboseong@gmail.com
-  464  "
-  465  git config --global user.name "boseongkang"
-  466  git commit -m "a4assignment"
-  467  git push -u
-  468  git remote set-url origin git@github.com:boseongkang/CS131-BigDataProcessing/mini-assignments-boseongkang.git
-  469  git push -u origin main
-  470  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
-  471  git push -u origin main
-  472  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
-  473  git push -u origin main
-  474  ls
-  475  pwd
-  476  ls
-  477  cd ..
-  478  ls
-  479  pwd
-  480  git add .
-  481  git commit -m "a4 assignment
-  482  git push -u
-  483  git push origin main
-  484  git fetch origin
-  485  git remote set-url origin git@github.com:CS131-BigDataProcessing/mini-assignments.git
-  486  git push origin main
-  487  cd
+  451  cd ..
+  452  ls
+  453  cd CS131_fa24_datafiles/
+  454  ls
+  455  cd Lec02
+  456  ls
+  457  cp goodluck.txt ~/mini-assignments-boseongkang/Kang-BS_A2/
+  458  cd
+  459  cd mini-assignments-boseongkang/
+  460  ls
+  461  cd Kang-BS_A2/
+  462  ls
+  463  clear
+  464  grep wor goodluck.txt 
+  465  grep "wor" goodluck.txt 
+  466  clear
+  467  grep -o "dred" goodluck.txt 
+  468  grep "dred" goodluck.txt 
+  469  grep '\w*dred\w*' goodluck.txt 
+  470  clear
+  471  grep -o 'dred' goodluck.txt 
+  472  grep -o '\bwor\w*' goodluck.txt 
+  473  clear
+  474  grep '\bwor\w*' goodluck.txt 
+  475  grep -l '\bwor\w*' goodluck.txt 
+  476  grep -o '\bwor\w*' goodluck.txt 
+  477  grep -w '\bwor\w*' goodluck.txt 
+  478  man grep
+  479  clear
+  480  grep -o '\bwor\w*' goodluck.txt 
+  481  grep -o '\wdred\w*' goodluck.txt 
+  482  grep '\wdred\w*' goodluck.txt 
+  483  man grep
+  484  cd CS131_fa24_datafiles/
+  485  ls
+  486  clear
+  487  cs Lec07
   488  ls
-  489  cd Kang_A4
+  489  cd Lec07
   490  ls
-  491  cd ../mini-assignments-boseongkang/
-  492  ls
-  493  cd Kang_A4/
-  494  ls
-  495  vim echoing.sh 
-  496  ls
-  497  cd ..
-  498  ls
-  499  cd
-  500  ls
-  501  ls -al
-  502  vim .bashrc 
-  503  clear
-  504  cat .bashrc
-  505  ls -al
-  506  cat .bash_profile 
-  507  cat .bashrc
-  508  clear
-  509  cat .bashrc
-  510  ls
-  511  git add .
-  512  cd mini-assignments-boseongkang/
-  513  ls
-  514  git add .
-  515  git commit -m "test"
-  516  git push -u
-  517  git pull
-  518  ls -al ~/.ssh
-  519  cd
+  491  clear
+  492  cat lec07_class.sh 
+  493  cd ..
+  494  cd mini-assignments-boseongkang/
+  495  ls
+  496  cd Kang_A4
+  497  ls
+  498  cat echoing.sh 
+  499  ls
+  500  vim echoing.sh 
+  501  pwd
+  502  cls
+  503  ls
+  504  cd ..
+  505  ls
+  506  cd Kang-BS_A2/
+  507  ls
+  508  vim goodluck.txt 
+  509  ls
+  510  cd ..
+  511  vim a2_shell_log.txt 
+  512  ls
+  513  cd ..
+  514  ls
+  515  vim index.html 
+  516  cd Kang_A
+  517  ls
+  518  clear
+  519  cd mini-assignments-boseongkang/
   520  ls
-  521  cd mini-assignments-boseongkang/
-  522  ls -al
-  523  git add .
-  524  git commit -m "test
-  525  "
-  526  git pull
-  527  pbcopy < ~/.ssh/id_ed25519.pub
-  528  cat ~/.ssh/id_ed25519.pub
-  529  eval "$(ssh-agent -s)"
-  530  ssh-add ~/.ssh/id_ed25519
-  531  ssh -T git@github.com
-  532  eval "$(ssh-agent -s)"
-  533  ssh-add ~/.ssh/id_ed25519
-  534  ssh -T git@github.com
-  535  ls 
-  536  cd mini-assignments-boseongkang/
-  537  ls
-  538  ls -al
-  539  git add .
-  540  git commit -m "a4"
-  541  git pull origin main
-  542  ls -al ~/.ssh
-  543  cat ~/.ssh/id_ed25519.pub
-  544  ssh -T git@github.com
-  545  git pull origin main
-  546  git pull origin main --allow-unrelated-histories
-  547  git push origin main
-  548  ssh -T git@github.com
-  549  git remote -v
-  550  ls
-  551  touch test.md
-  552  git add .
-  553  git commit -m "test"
-  554  git push -u
-  555  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments.git
-  556  git push origin main
-  557  clear
-  558  cls
-  559  pwd
-  560  ls
-  561  cls
-  562  ls -al
-  563  cls
-  564  ls -l
-  565  cls
-  566  pwd
-  567  ls -l
-  568  cd Kang_A4
-  569  ls
-  570  cls
-  571  cd ../mini-assignments-boseongkang
-  572  cls
-  573  pwd
-  574  ls
-  575  vim test.md 
-  576  git add .
-  577  git commit -m "test"
-  578  git push -u
-  579  cd
-  580  clear
-  581  cd mini-assignments-boseongkang/
-  582  ls 
-  583  cat test.md 
-  584  git status
-  585  git add .
-  586  git commit -m "test"
-  587  git push origin master
-  588  git push origin main
-  589  git push -u
-  590  git log
-  591  ls -al ~/.ssh
-  592  ssh -T git@github.com
+  521  cd Kang_A4
+  522  cat echoing.sh 
+  523  cd ~
+  524  ls
+  525  cd mis
+  526  ls
+  527  cd mini-assignments-boseongkang/
+  528  ls
+  529  cd KangFI_A5/
+  530  ls
+  531  clear
+  532  cat age.sh 
+  533  ls
+  534  git pull https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  535  cd ..
+  536  ls
+  537  cd bkangfa24/
+  538  ls
+  539  git pull 
+  540  git pull git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  541  clear
+  542  ls
+  543  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  544  rm -rf CS131_fa24_datafiles/
+  545  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  546  ls
+  547  cd CS131_fa24_datafiles/
+  548  ls
+  549  clear
+  550  cd Lec07
+  551  ls
+  552  cat lec07_class.sh 
+  553  vim lec07_class.sh 
+  554  sh lec07_class.sh 
+  555  sh lec07_class.sh bkangfa24
+  556  cat lec07_class.sh 
+  557  cls
+  558  vim lec07_class.sh 
+  559  sh lec07_class.sh bkangfa24
+  560  vim lec07_class.sh 
+  561  sh lec07_class.sh bkangfa24
+  562  cat lec07_class.sh 
+  563  vim lec07_class.sh 
+  564  sh lec07_class.sh bkangfa24
+  565  vim lec07_class.sh 
+  566  sh lec07_class.sh bkangfa24
+  567  vim lec07_class.sh 
+  568  bash lec07_class.sh bkangfa24
+  569  clear
+  570  bash lec07_class.sh bkangfa24
+  571  vim lec07_class.sh 
+  572  clear
+  573  sh lec07_class.sh bkangfa24
+  574  vim lec07_class.sh 
+  575  sh lec07_class.sh bkangfa24
+  576  sh lec07_class.sh as
+  577  clear
+  578  sh lec07_class.sh asdasdqq
+  579  vim lec07_class.sh 
+  580  cd ..
+  581  ls
+  582  pwd
+  583  cd ..
+  584  ls
+  585  cd mini-assignments-boseongkang/
+  586  ls
+  587  cls
+  588  ls
+  589  mkdir KangFI_A5
+  590  cd KangFI_A5/
+  591  clear
+  592  pwd
   593  clear
-  594  git log
-  595  ls
-  596  clear
-  597  pwd
-  598  ls -l
-  599  cat test.md 
-  600  git remote -v
-  601  git remote set-url origin git@github.com:boseongkang/CS131-BigDataProcessing/mini-assignments-boseongkang.git
-  602  ls -l
-  603  vim test.md 
-  604  git add .
-  605  git commit -m "test"
-  606  git push -u
-  607  git remote -v
-  608  git remote set-rul origin git@github.com:CS131-BigDataProcessing/mini-assignments-boseongkang.git
-  609  git remote set-url origin git@github.com:CS131-BigDataProcessing/mini-assignments-boseongkang.git
-  610  git add .
-  611  git commit -m "a"
-  612  git push -u
-  613  clear
-  614  ls
-  615  cd CS131_fa24_datafiles/
-  616  ls
-  617  cd Lec0
-  618  cd Lec02
-  619  ls
-  620  clear
-  621  cat goodluck.txt 
-  622  vim goodluck.txt 
-  623  ls
-  624  cd ..
-  625  ls
-  626  pwd
-  627  ls
-  628  cd mini-assignments-boseongkang/
-  629  ls
-  630  clear
-  631  pwd
-  632  ls -l
-  633  mkdir Kang-BS_A2
-  634  cd Kang-BS_A2/
-  635  pwd
-  636  clear
-  637  cd ..
-  638  ls
-  639  cd ..
-  640  ls
-  641  cd CS131_fa24_datafiles/
-  642  ls
-  643  cd Lec02
-  644  ls
-  645  cp goodluck.txt ~/mini-assignments-boseongkang/Kang-BS_A2/
-  646  cd
-  647  cd mini-assignments-boseongkang/
-  648  ls
-  649  cd Kang-BS_A2/
-  650  ls
-  651  clear
-  652  grep wor goodluck.txt 
-  653  grep "wor" goodluck.txt 
-  654  clear
-  655  grep -o "dred" goodluck.txt 
-  656  grep "dred" goodluck.txt 
-  657  grep '\w*dred\w*' goodluck.txt 
-  658  clear
-  659  grep -o 'dred' goodluck.txt 
-  660  grep -o '\bwor\w*' goodluck.txt 
-  661  clear
-  662  grep '\bwor\w*' goodluck.txt 
-  663  grep -l '\bwor\w*' goodluck.txt 
-  664  grep -o '\bwor\w*' goodluck.txt 
-  665  grep -w '\bwor\w*' goodluck.txt 
-  666  man grep
-  667  clear
-  668  grep -o '\bwor\w*' goodluck.txt 
-  669  grep -o '\wdred\w*' goodluck.txt 
-  670  grep '\wdred\w*' goodluck.txt 
-  671  man grep
-  672  cd CS131_fa24_datafiles/
-  673  ls
-  674  clear
-  675  cs Lec07
-  676  ls
-  677  cd Lec07
-  678  ls
-  679  clear
-  680  cat lec07_class.sh 
-  681  cd ..
-  682  cd mini-assignments-boseongkang/
+  594  vim age.sh
+  595  sh age.sh 5
+  596  vim age.sh 
+  597  sh age.sh 5
+  598  vim age.sh 
+  599  sh age.sh 5
+  600  vim age.sh 
+  601  sh age.sh 
+  602  sh age.sh 5
+  603  vim age.sh 
+  604  sh age.sh 5
+  605  vim age.sh 
+  606  sh age.sh 5
+  607  sh age.sh 
+  608  vim age.sh 
+  609  sh age.sh 5
+  610  vim age.sh 
+  611  sh age.sh 5
+  612  vim age.sh 
+  613  sh age.sh 5
+  614  vim age.sh 
+  615  sh age.sh 5
+  616  vim age.sh 
+  617  sh age.sh 5, 17
+  618  sh age.sh 5
+  619  sh age.sh 
+  620  vim age.sh 
+  621  clear
+  622  vim age.sh 
+  623  sh age.sh 5,17,48,72
+  624  sh age.sh 5
+  625  sh age.sh 17
+  626  sh age.sh 48
+  627  sh age.sh 72
+  628  vim age.sh 
+  629  ls 
+  630  vim temperature.sh
+  631  sh temperature.sh 62
+  632  vim 
+  633  vim temperature.sh 
+  634  sh temperature.sh 62
+  635  vim temperature.sh 
+  636  sh temperature.sh 62
+  637  vim temperature.sh 
+  638  sh temperature.sh 62
+  639  vim temperature.sh 
+  640  sh temperature.sh 62
+  641  vim temperature.sh 
+  642  sh temperature.sh 5
+  643  sh temperature.sh 62
+  644  vim tem
+  645  vim temperature.sh 
+  646  vim 62
+  647  sh temperature.sh 62
+  648  sh temperature.sh 5
+  649  vim temperature.sh 
+  650  sh temperature.sh 5
+  651  vim temperature.sh 
+  652  sh temperature.sh 84
+  653  vim temperature.sh 
+  654  sh temperature.sh 84
+  655  vim temperature.sh 
+  656  sh temperature.sh 62
+  657  sh temperature.sh 5
+  658  sh temperature.sh 97
+  659  sh temperature.sh 73
+  660  ls 
+  661  cd mini-assignments-boseongkang/
+  662  ls
+  663  cd KangFI_A5/
+  664  ls
+  665  sh age.sh 5
+  666  sh age.sh 17
+  667  sh age.sh 48
+  668  sh age.sh 72
+  669  vim age.sh 
+  670  sh age.sh 5
+  671  vim age.sh 
+  672  sh age.sh 5
+  673  vim age.sh 
+  674  sh age.sh 17
+  675  sh age.sh 48
+  676  sh age.sh 72
+  677  sh temperature.sh 62
+  678  sh temperature.sh 5
+  679  sh temperature.sh 97
+  680  sh temperature.sh 73
+  681  vim temperature.sh 
+  682  cd ..
   683  ls
-  684  cd Kang_A4
+  684  cd KangFI_A5/
   685  ls
-  686  cat echoing.sh 
-  687  ls
-  688  vim echoing.sh 
-  689  pwd
-  690  cls
-  691  ls
-  692  cd ..
-  693  ls
-  694  cd Kang-BS_A2/
+  686  git add age.sh 
+  687  git commit -m "Age"
+  688  git add temperature.sh 
+  689  git commit -m "temperature"
+  690  git push -u
+  691  cd ..
+  692  ls
+  693  cd KangFI_A5/
+  694  vim temperature.sh 
   695  ls
-  696  vim goodluck.txt 
+  696  cd ..
   697  ls
-  698  cd ..
-  699  vim a2_shell_log.txt 
+  698  mkdir KangFI_A4
+  699  cd KangFI_A4/
   700  ls
-  701  cd ..
-  702  ls
-  703  vim index.html 
-  704  cd Kang_A
-  705  ls
-  706  clear
-  707  cd mini-assignments-boseongkang/
-  708  ls
-  709  cd Kang_A4
-  710  cat echoing.sh 
-  711  cd ~
-  712  ls
-  713  cd mis
-  714  ls
-  715  cd mini-assignments-boseongkang/
-  716  ls
-  717  cd KangFI_A5/
-  718  ls
-  719  clear
-  720  cat age.sh 
-  721  ls
-  722  git pull https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  723  cd ..
-  724  ls
-  725  cd bkangfa24/
+  701  who
+  702  date
+  703  vim echoing.sh
+  704  clear
+  705  who
+  706  date
+  707  $HOME
+  708  sh echoing.sh 
+  709  clear
+  710  sh echoing.sh 
+  711  vim echoing.sh 
+  712  sh echoing.sh 
+  713  vim echoing.sh 
+  714  sh echoing.sh 
+  715  pwd
+  716  git add echoing.sh 
+  717  git commit -m "a4_assignment"
+  718  git push -u
+  719  cat echoing.sh 
+  720  sh echoing.sh 
+  721  cd ..
+  722  ls
+  723  cat a2_shell_log.txt 
+  724  ls 
+  725  cd Kang-BS_A2/
   726  ls
-  727  git pull 
-  728  git pull git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  729  clear
-  730  ls
-  731  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  732  rm -rf CS131_fa24_datafiles/
-  733  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  734  ls
-  735  cd CS131_fa24_datafiles/
-  736  ls
-  737  clear
-  738  cd Lec07
+  727  cd ..
+  728  mv a2_shell_log.txt ../mini-assignments-boseongkang/Kang-BS_A2/
+  729  ls
+  730  cd Kang-BS_A2/
+  731  clear
+  732  ls
+  733  cat a2_shell_log.txt 
+  734  cd ..
+  735  ls
+  736  cd Kang-BS_A2/
+  737  ls
+  738  rm -rf a2_shell_log.txt 
   739  ls
-  740  cat lec07_class.sh 
-  741  vim lec07_class.sh 
-  742  sh lec07_class.sh 
-  743  sh lec07_class.sh bkangfa24
-  744  cat lec07_class.sh 
-  745  cls
-  746  vim lec07_class.sh 
-  747  sh lec07_class.sh bkangfa24
-  748  vim lec07_class.sh 
-  749  sh lec07_class.sh bkangfa24
-  750  cat lec07_class.sh 
-  751  vim lec07_class.sh 
-  752  sh lec07_class.sh bkangfa24
-  753  vim lec07_class.sh 
-  754  sh lec07_class.sh bkangfa24
-  755  vim lec07_class.sh 
-  756  bash lec07_class.sh bkangfa24
-  757  clear
-  758  bash lec07_class.sh bkangfa24
-  759  vim lec07_class.sh 
-  760  clear
-  761  sh lec07_class.sh bkangfa24
-  762  vim lec07_class.sh 
-  763  sh lec07_class.sh bkangfa24
-  764  sh lec07_class.sh as
-  765  clear
-  766  sh lec07_class.sh asdasdqq
-  767  vim lec07_class.sh 
-  768  cd ..
-  769  ls
-  770  pwd
-  771  cd ..
-  772  ls
-  773  cd mini-assignments-boseongkang/
-  774  ls
-  775  cls
-  776  ls
-  777  mkdir KangFI_A5
-  778  cd KangFI_A5/
-  779  clear
-  780  pwd
-  781  clear
-  782  vim age.sh
-  783  sh age.sh 5
-  784  vim age.sh 
-  785  sh age.sh 5
-  786  vim age.sh 
-  787  sh age.sh 5
-  788  vim age.sh 
-  789  sh age.sh 
-  790  sh age.sh 5
-  791  vim age.sh 
-  792  sh age.sh 5
-  793  vim age.sh 
-  794  sh age.sh 5
-  795  sh age.sh 
-  796  vim age.sh 
-  797  sh age.sh 5
-  798  vim age.sh 
-  799  sh age.sh 5
-  800  vim age.sh 
-  801  sh age.sh 5
-  802  vim age.sh 
-  803  sh age.sh 5
-  804  vim age.sh 
-  805  sh age.sh 5, 17
-  806  sh age.sh 5
-  807  sh age.sh 
-  808  vim age.sh 
-  809  clear
-  810  vim age.sh 
-  811  sh age.sh 5,17,48,72
-  812  sh age.sh 5
-  813  sh age.sh 17
-  814  sh age.sh 48
-  815  sh age.sh 72
-  816  vim age.sh 
-  817  ls 
-  818  vim temperature.sh
-  819  sh temperature.sh 62
-  820  vim 
-  821  vim temperature.sh 
-  822  sh temperature.sh 62
-  823  vim temperature.sh 
-  824  sh temperature.sh 62
-  825  vim temperature.sh 
-  826  sh temperature.sh 62
-  827  vim temperature.sh 
-  828  sh temperature.sh 62
-  829  vim temperature.sh 
-  830  sh temperature.sh 5
-  831  sh temperature.sh 62
-  832  vim tem
-  833  vim temperature.sh 
-  834  vim 62
-  835  sh temperature.sh 62
-  836  sh temperature.sh 5
-  837  vim temperature.sh 
-  838  sh temperature.sh 5
-  839  vim temperature.sh 
-  840  sh temperature.sh 84
-  841  vim temperature.sh 
-  842  sh temperature.sh 84
-  843  vim temperature.sh 
-  844  sh temperature.sh 62
-  845  sh temperature.sh 5
-  846  sh temperature.sh 97
-  847  sh temperature.sh 73
-  848  ls 
-  849  cd mini-assignments-boseongkang/
-  850  ls
-  851  cd KangFI_A5/
-  852  ls
-  853  sh age.sh 5
-  854  sh age.sh 17
-  855  sh age.sh 48
-  856  sh age.sh 72
-  857  vim age.sh 
-  858  sh age.sh 5
-  859  vim age.sh 
-  860  sh age.sh 5
-  861  vim age.sh 
-  862  sh age.sh 17
-  863  sh age.sh 48
-  864  sh age.sh 72
-  865  sh temperature.sh 62
-  866  sh temperature.sh 5
-  867  sh temperature.sh 97
-  868  sh temperature.sh 73
-  869  vim temperature.sh 
-  870  cd ..
-  871  ls
-  872  cd KangFI_A5/
-  873  ls
-  874  git add age.sh 
-  875  git commit -m "Age"
-  876  git add temperature.sh 
-  877  git commit -m "temperature"
-  878  git push -u
-  879  cd ..
-  880  ls
-  881  cd KangFI_A5/
-  882  vim temperature.sh 
-  883  ls
-  884  cd ..
-  885  ls
-  886  mkdir KangFI_A4
-  887  cd KangFI_A4/
-  888  ls
-  889  who
-  890  date
-  891  vim echoing.sh
-  892  clear
-  893  who
-  894  date
-  895  $HOME
-  896  sh echoing.sh 
-  897  clear
-  898  sh echoing.sh 
-  899  vim echoing.sh 
-  900  sh echoing.sh 
-  901  vim echoing.sh 
-  902  sh echoing.sh 
-  903  pwd
-  904  git add echoing.sh 
-  905  git commit -m "a4_assignment"
-  906  git push -u
-  907  cat echoing.sh 
-  908  sh echoing.sh 
-  909  cd ..
-  910  ls
-  911  cat a2_shell_log.txt 
-  912  ls 
-  913  cd Kang-BS_A2/
-  914  ls
-  915  cd ..
-  916  mv a2_shell_log.txt ../mini-assignments-boseongkang/Kang-BS_A2/
-  917  ls
-  918  cd Kang-BS_A2/
+  740  vim goodluck.txt 
+  741  man wor
+  742  man wc
+  743  we -w wor goodluck.txt 
+  744  man wc
+  745  grep wor goodluck.txt 
+  746  man grep
+  747  grep -w wor goodluck.txt 
+  748  man grep
+  749  grep -o wor goodluck.txt 
+  750  grep -i dred goodluck.txt 
+  751  man grep
+  752  grep -l "Good luck, babe" goodluck.txt 
+  753  man grep
+  754  grep -w "Good luck, babe" goodluck.txt 
+  755  man wc
+  756  wc -l | grep -w "Good luck, babe" goodluck.txt 
+  757  grep -w "Good luck, babe" goodluck.txt | we -l
+  758  grep -w "Good luck, babe" goodluck.txt | wc -l
+  759  grep -w "Good luck, babe" goodluck.txt | wc -w
+  760  we -w 
+  761  we -w goodluck.txt 
+  762  wc -w goodluck.txt 
+  763  wc -w goodluck.txt | grep -w "Good luck, babe"
+  764  wc -w goodluck.txt | grep -w "Good luck, babe" goodluck.txt 
+  765  wc -w | grep -w "Good luck, babe" goodluck.txt 
+  766  grep -w "Good luck, babe" goodluck.txt | wc -lw
+  767  grep -w "Good luck, babe" goodluck.txt | wc -lw > Kang-BS_a2_counts.txt
+  768  ls
+  769  clear
+  770  ls -l
+  771  cat Kang-BS_a2_counts.txt
+  772  vim Kang-BS_a2_counts.txt 
+  773  cat Kang-BS_a2_counts.txt 
+  774  history > Kang-BS_A2
+  775  clear
+  776  ls -l
+  777  ls -al
+  778  cat Kang-BS_A2 
+  779  pwd
+  780  cd ..
+  781  ls
+  782  git add Kang-BS_A2/
+  783  git commit -m "a2_assignment"
+  784  git push -u
+  785  cd Kang-BS_A2/
+  786  ls
+  787  exit
+  788  cd mini-assignments-boseongkang/
+  789  ls
+  790  cd Kang_A4/
+  791  ls
+  792  cat echoing.sh 
+  793  exit
+  794  cd mini-assignments-boseongkang/
+  795  ls
+  796  clear
+  797  ls
+  798  cd KangFI_A5
+  799  ls
+  800  sh temperature.sh 62
+  801  sh temperature.sh 5
+  802  sh age.sh 5
+  803  cd ..
+  804  git add .
+  805  git commit -m "a5"
+  806  git push -u
+  807  cd 
+  808  ls
+  809  cd CS131_fa24_datafiles/
+  810  ls
+  811  cd Lec08
+  812  ls
+  813  rm -rf
+  814  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  815  ls
+  816  cd ..
+  817  rm -rf CS131_fa24_datafiles/
+  818  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  819  cd CS131_fa24_datafiles/Lec08
+  820  mv airline_stats.csv ../../mini-assignments-boseongkang/KangFI_A6
+  821  cd 
+  822  cd mini-assignments-boseongkang/KangFI_A6
+  823  ls
+  824  clear
+  825  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  826  cd ..
+  827  cd bkangfa24/
+  828  ls
+  829  rm -rf CS131_fa24_datafiles/
+  830  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  831  cd CS131_fa24_datafiles/
+  832  ls
+  833  cd Lec08
+  834  ls
+  835  clear
+  836  cat airline_stats.csv 
+  837  head airline_stats.csv 
+  838  tail airline_stats.csv 
+  839  cls
+  840  head  
+  841  clear
+  842  head airline_stats.csv 
+  843  tmail airline_stats.csv
+  844  clear airline_stats.csv 
+  845  clear
+  846  tail airline_stats.csv 
+  847  clear
+  848  awk '/ya/' /etc/passwd
+  849  awk -F
+  850  awk -F '/ya/' /etc/passwd
+  851  awk -F '/ya/ {print $5}' /etc/passwd
+  852  awk -F '/ya/ { print $5 }' /etc/passwd
+  853  awk -F: '/ya/ { print $5 }' /etc/passwd
+  854  gawk -F: '/ya/ { print $5 }' /etc/passwd
+  855  clear
+  856  awk -F: '/ya/ { print $5 }' /etc/passwd
+  857  clear
+  858  ls
+  859  head airline_stats.csv 
+  860  awk -F, '{print $4}' airline_stats.csv 
+  861  head airline_stats.csv 
+  862  awk -F, '$1 > 12 {print $4}' airline_stats.csv 
+  863  head airline_stats.csv 
+  864  clear
+  865  awk -F, '{print $4}' airline_stats.csv 
+  866  awk -F, '{print $4}' airline_stats.csv |sort|uniq
+  867  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc-l
+  868  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc -|
+  869  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc|
+  870  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c|wc|
+  871  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c|
+  872  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c
+  873  awk -F, '{print $4}' airline_stats.csv |sort
+  874  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc-l
+  875  man awk
+  876  clear
+  877  awk -F, '{print $4}' airline_stats.csv |sort|uniq
+  878  cat airline_stats.csv head
+  879  cat head airline_stats.csv 
+  880  head airline_stats.csv 
+  881  clear
+  882  tail airline_stats.csv 
+  883  clear
+  884  head airline_stats.csv 
+  885  awk -F, '{print $4}' airline_stats.csv |sort|uniq
+  886  vim airline_inquiry.txt
+  887  awk -F, '$1 > 10 {print $4}' airline_stats.csv 
+  888  clear
+  889  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort
+  890  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniq
+  891  vim airline_inquiry.txt 
+  892  head airline_stats.csv 
+  893  awk -v, '$1 > 15 {print $4}' airline_stats.csv |sort|uniq
+  894  cat airline_inquiry.txt 
+  895  awk -v Threshold="$15" {print $4}' airline_stats.csv |sort|uniq
+  896  awk -v Threshold="$15" 'if $1 > 15 {print $4}' airline_stats.csv |sort|uniq
+  897  awk -v Threshold="$15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
+  898  awk -v Threshold="15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
+  899  awk -v Threshold="$/15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
+  900  awk -v Threshold="$/15" '{if ($1 > Threshold) {print $4}}' airline_stats.csv |sort|uniq
+  901  awk -v Threshold="15" '{if ($1 > Threshold) print $4}' airline_stats.csv |sort|uniq
+  902  awk -v Threshold="15" '{if ($1 < Threshold) print $4}' airline_stats.csv |sort|uniq
+  903  awk -v Threshold=1" '{if ($1 > Threshold) print $4}' airline_stats.csv |sort|uniq
+  904  awk -v Threshold=15 '{$1 > Threshold print $4}' airline_stats.csv |sort|uniq
+  905  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv |sort|uniq
+  906  awk -v Threshold=15 '$1 < Threshold {print $4}' airline_stats.csv |sort|uniq
+  907  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv 
+  908  clear
+  909  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv
+  910  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv |sort
+  911  clear
+  912  awk -v threshold=15 '$1 > threshold {print $4}' airline_stats.csv
+  913  cat airline_stats.csv 
+  914  awk -v threshold=15 '$1 > threshold {print $4}' airline_stats.txt
+  915  ls
+  916  awk -v threshold=15 '$1 > threshold' airline_stats.csv
+  917  clear
+  918  awk -v threshold=15 '$1 > threshold' airline_stats.csv sort|uniq
   919  clear
-  920  ls
-  921  cat a2_shell_log.txt 
-  922  cd ..
-  923  ls
-  924  cd Kang-BS_A2/
-  925  ls
-  926  rm -rf a2_shell_log.txt 
-  927  ls
-  928  vim goodluck.txt 
-  929  man wor
-  930  man wc
-  931  we -w wor goodluck.txt 
-  932  man wc
-  933  grep wor goodluck.txt 
-  934  man grep
-  935  grep -w wor goodluck.txt 
-  936  man grep
-  937  grep -o wor goodluck.txt 
-  938  grep -i dred goodluck.txt 
-  939  man grep
-  940  grep -l "Good luck, babe" goodluck.txt 
-  941  man grep
-  942  grep -w "Good luck, babe" goodluck.txt 
-  943  man wc
-  944  wc -l | grep -w "Good luck, babe" goodluck.txt 
-  945  grep -w "Good luck, babe" goodluck.txt | we -l
-  946  grep -w "Good luck, babe" goodluck.txt | wc -l
-  947  grep -w "Good luck, babe" goodluck.txt | wc -w
-  948  we -w 
-  949  we -w goodluck.txt 
-  950  wc -w goodluck.txt 
-  951  wc -w goodluck.txt | grep -w "Good luck, babe"
-  952  wc -w goodluck.txt | grep -w "Good luck, babe" goodluck.txt 
-  953  wc -w | grep -w "Good luck, babe" goodluck.txt 
-  954  grep -w "Good luck, babe" goodluck.txt | wc -lw
-  955  grep -w "Good luck, babe" goodluck.txt | wc -lw > Kang-BS_a2_counts.txt
-  956  ls
-  957  clear
-  958  ls -l
-  959  cat Kang-BS_a2_counts.txt
-  960  vim Kang-BS_a2_counts.txt 
-  961  cat Kang-BS_a2_counts.txt 
-  962  history > Kang-BS_A2
-  963  clear
-  964  ls -l
-  965  ls -al
-  966  cat Kang-BS_A2 
-  967  pwd
-  968  cd ..
-  969  ls
-  970  git add Kang-BS_A2/
-  971  git commit -m "a2_assignment"
-  972  git push -u
-  973  cd Kang-BS_A2/
-  974  ls
-  975  exit
-  976  cd mini-assignments-boseongkang/
-  977  ls
-  978  cd Kang_A4/
-  979  ls
-  980  cat echoing.sh 
-  981  exit
-  982  clear
-  983  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  984  cd ..
-  985  cd bkangfa24/
-  986  ls
-  987  rm -rf CS131_fa24_datafiles/
-  988  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
-  989  cd CS131_fa24_datafiles/
-  990  ls
-  991  cd Lec08
-  992  ls
-  993  clear
-  994  cat airline_stats.csv 
-  995  head airline_stats.csv 
-  996  tail airline_stats.csv 
-  997  cls
-  998  head  
-  999  clear
- 1000  head airline_stats.csv 
- 1001  tmail airline_stats.csv
- 1002  clear airline_stats.csv 
- 1003  clear
- 1004  tail airline_stats.csv 
- 1005  clear
- 1006  awk '/ya/' /etc/passwd
- 1007  awk -F
- 1008  awk -F '/ya/' /etc/passwd
- 1009  awk -F '/ya/ {print $5}' /etc/passwd
- 1010  awk -F '/ya/ { print $5 }' /etc/passwd
- 1011  awk -F: '/ya/ { print $5 }' /etc/passwd
- 1012  gawk -F: '/ya/ { print $5 }' /etc/passwd
- 1013  clear
- 1014  awk -F: '/ya/ { print $5 }' /etc/passwd
- 1015  clear
- 1016  ls
- 1017  head airline_stats.csv 
- 1018  awk -F, '{print $4}' airline_stats.csv 
- 1019  head airline_stats.csv 
- 1020  awk -F, '$1 > 12 {print $4}' airline_stats.csv 
- 1021  head airline_stats.csv 
- 1022  clear
- 1023  awk -F, '{print $4}' airline_stats.csv 
- 1024  awk -F, '{print $4}' airline_stats.csv |sort|uniq
- 1025  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc-l
- 1026  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc -|
- 1027  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc|
- 1028  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c|wc|
- 1029  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c|
- 1030  awk -F, '{print $4}' airline_stats.csv |sort-n|uniq-c
- 1031  awk -F, '{print $4}' airline_stats.csv |sort
- 1032  awk -F, '{print $4}' airline_stats.csv |sort|uniq|wc-l
- 1033  man awk
- 1034  clear
- 1035  awk -F, '{print $4}' airline_stats.csv |sort|uniq
- 1036  cat airline_stats.csv head
- 1037  cat head airline_stats.csv 
- 1038  head airline_stats.csv 
- 1039  clear
- 1040  tail airline_stats.csv 
- 1041  clear
- 1042  head airline_stats.csv 
- 1043  awk -F, '{print $4}' airline_stats.csv |sort|uniq
- 1044  vim airline_inquiry.txt
- 1045  awk -F, '$1 > 10 {print $4}' airline_stats.csv 
- 1046  clear
- 1047  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort
- 1048  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniq
- 1049  vim airline_inquiry.txt 
- 1050  head airline_stats.csv 
- 1051  awk -v, '$1 > 15 {print $4}' airline_stats.csv |sort|uniq
- 1052  cat airline_inquiry.txt 
- 1053  awk -v Threshold="$15" {print $4}' airline_stats.csv |sort|uniq
- 1054  awk -v Threshold="$15" 'if $1 > 15 {print $4}' airline_stats.csv |sort|uniq
- 1055  awk -v Threshold="$15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
- 1056  awk -v Threshold="15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
- 1057  awk -v Threshold="$/15" '{if ($1 > 15) {print $4}}' airline_stats.csv |sort|uniq
- 1058  awk -v Threshold="$/15" '{if ($1 > Threshold) {print $4}}' airline_stats.csv |sort|uniq
- 1059  awk -v Threshold="15" '{if ($1 > Threshold) print $4}' airline_stats.csv |sort|uniq
- 1060  awk -v Threshold="15" '{if ($1 < Threshold) print $4}' airline_stats.csv |sort|uniq
- 1061  awk -v Threshold=1" '{if ($1 > Threshold) print $4}' airline_stats.csv |sort|uniq
- 1062  awk -v Threshold=15 '{$1 > Threshold print $4}' airline_stats.csv |sort|uniq
- 1063  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv |sort|uniq
- 1064  awk -v Threshold=15 '$1 < Threshold {print $4}' airline_stats.csv |sort|uniq
- 1065* awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv 
- 1066  clear
- 1067  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv
- 1068  awk -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv |sort
- 1069  clear
- 1070  awk -v threshold=15 '$1 > threshold {print $4}' airline_stats.csv
- 1071  cat airline_stats.csv 
- 1072  awk -v threshold=15 '$1 > threshold {print $4}' airline_stats.txt
- 1073  ls
- 1074  awk -v threshold=15 '$1 > threshold' airline_stats.csv
- 1075  clear
- 1076  awk -v threshold=15 '$1 > threshold' airline_stats.csv sort|uniq
- 1077  clear
- 1078  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
- 1079  head airline_stats.csv 
- 1080  clear
- 1081  head airline_stats.csv 
- 1082  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
- 1083  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniq
- 1084  ls
- 1085  mv airline_stats.csv ../../mini-assignments-boseongkang/KangFI_A6
- 1086  ls
- 1087  mv airline_inquiry.txt ../../mini-assignments-boseongkang/KangFI_A6
- 1088  cd 
- 1089  ls 
- 1090  cd mini-assignments-boseongkang/
- 1091  cd KangFI_A6
- 1092  ls
- 1093  cat KangFI_A6
- 1094  cd ..
- 1095  ls
- 1096  rm -rf CS131_fa24_datafiles/
- 1097  git pull git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
- 1098  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
- 1099  ls
- 1100  cd mini-assignments-boseongkang/
- 1101  ls
- 1102  rm KangFI_A6
- 1103  ls
- 1104  cd ..
- 1105  ls
- 1106  cd mini-assignments-boseongkang/
- 1107  ls
- 1108  mkdir KANGFI_A6
- 1109  cd ..
- 1110  ls
- 1111  cd CS131_fa24_datafiles/
- 1112  ls
- 1113  cd Lec0
- 1114  cd Lec08
- 1115  ls
- 1116  mv airline_stats.csv ../../mini-assignments-boseongkang/KangFI_A6
- 1117  cd
- 1118  cd mini-assignments-boseongkang/KangFI_A6
- 1119  cd
- 1120  cd mini-assignments-boseongkang/
- 1121  ls
- 1122  rm KanfFI_A6
- 1123  rm -rf KanfFI_A6
- 1124  ls
- 1125  ls -l
- 1126  rm -rf KangFI_A6
- 1127  cd KANGFI_A6
- 1128  ls
- 1129  cd ..
- 1130  rm -rf KANGFI_A6
- 1131  ls
- 1132  mkdir KangFI_A6
- 1133  ls
- 1134  cd KangFI_A6
- 1135  ls
- 1136  awk -F, '{print $4}' airline_stats.csv |sort|uniq
- 1137* awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniqvi
- 1138  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
- 1139  awk -F, '{print $4}' airline_stats.csv |sort|uniq
- 1140  vim airline_inquiry.txt
- 1141  vim airline_inquiry.txt 
- 1142  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
- 1143  vim airline_inquiry.txt 
- 1144  vim airline_
- 1145  vim airline_inquiry.txt 
- 1146  hitory > a6_cmds.log
- 1147  history > a6_cmds.log
+  920  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+  921  head airline_stats.csv 
+  922  clear
+  923  head airline_stats.csv 
+  924  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+  925  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniq
+  926  ls
+  927  mv airline_stats.csv ../../mini-assignments-boseongkang/KangFI_A6
+  928  ls
+  929  mv airline_inquiry.txt ../../mini-assignments-boseongkang/KangFI_A6
+  930  cd 
+  931  ls 
+  932  cd mini-assignments-boseongkang/
+  933  cd KangFI_A6
+  934  ls
+  935  cat KangFI_A6
+  936  cd ..
+  937  ls
+  938  rm -rf CS131_fa24_datafiles/
+  939  git pull git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  940  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  941  ls
+  942  cd mini-assignments-boseongkang/
+  943  ls
+  944  rm KangFI_A6
+  945  ls
+  946  cd ..
+  947  ls
+  948  cd mini-assignments-boseongkang/
+  949  ls
+  950  mkdir KANGFI_A6
+  951  cd ..
+  952  ls
+  953  cd CS131_fa24_datafiles/
+  954  ls
+  955  cd Lec0
+  956  cd Lec08
+  957  ls
+  958  mv airline_stats.csv ../../mini-assignments-boseongkang/KangFI_A6
+  959  cd
+  960  cd mini-assignments-boseongkang/KangFI_A6
+  961  cd
+  962  cd mini-assignments-boseongkang/
+  963  ls
+  964  rm KanfFI_A6
+  965  rm -rf KanfFI_A6
+  966  ls
+  967  ls -l
+  968  rm -rf KangFI_A6
+  969  cd KANGFI_A6
+  970  ls
+  971  cd ..
+  972  rm -rf KANGFI_A6
+  973  ls
+  974  mkdir KangFI_A6
+  975  ls
+  976  cd KangFI_A6
+  977  awk -F, '{print $4}' airline_stats.csv |sort|uniq
+  978  awk -F, '$1 > 10 {print $4}' airline_stats.csv |sort|uniqvi
+  979  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+  980  awk -F, '{print $4}' airline_stats.csv |sort|uniq
+  981  vim airline_inquiry.txt
+  982  vim airline_inquiry.txt 
+  983  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+  984  vim airline_inquiry.txt 
+  985  vim airline_
+  986  vim airline_inquiry.txt 
+  987  hitory > a6_cmds.log
+  988  history > a6_cmds.log
+  989  ls
+  990  git add .
+  991  git commit -m "a6"
+  992  git push -u
+  993  vim airline_inquiry.txt 
+  994  git add airline_inquiry.txt 
+  995  git commit -m "q1modify"
+  996  git push -u
+  997  cleaar
+  998  cls
+  999  sl
+ 1000  cd mini-assignments-boseongkang/
+ 1001  ls
+ 1002  cd KangFI_A
+ 1003  cd KangFI_A6
+ 1004  ls
+ 1005  awk -v Threshold=15 -F, '$1 > Threshold {print $4}' airline_stats.csv | sort | uniq
+ 1006  history > a6_cmds.log
+ 1007  ls
+ 1008  cat a6_cmds.log 
+ 1009  cls
+ 1010  ls
+ 1011  cat airline_inquiry.txt 
+ 1012  awk -v Threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+ 1013  awk -v threshold=15 '$1 > Threshold' airline_stats.csv sort|uniq
+ 1014  history > a6_cmds.log
