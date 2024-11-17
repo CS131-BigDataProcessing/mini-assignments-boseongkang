@@ -1,0 +1,4 @@
+0 2 * * * rm -rf /mnt/scratch/FA24_CS131_Jessica/bkangfa24/testfolder
+0 3 * * 0 tar -czf backup.tar /mnt/scratch/FA24_CS131_Jessica/bkangfa24
+30 8 * * * df -h | mail mail -s "disk usage report" useremail@useremail.com
+
